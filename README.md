@@ -1,6 +1,9 @@
-# List of DL Architecture to implement in pyTorch and Tensorflow
+# List of ML models and DL architectures implimented  
 
-### Basic
+### Basic Models
+- [ ] Simple Neural Network
+
+### General Models
 
 - [ ]  AlexNet: [https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 - [ ]  ZFNet: [https://arxiv.org/abs/1311.2901](https://arxiv.org/abs/1311.2901)
