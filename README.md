@@ -1,7 +1,10 @@
 # List of ML models and DL architectures implimented  
 
 ### Basic Models
-- [x] Logistic Regression with gradient descent
+- [ ] Linear Regression - Single Variable
+- [ ] Linear Regression - Multi Variables
+- [ ] Logistic Regression with gradient descent - binary classification
+- [x] Logistic Regression with gradient descent - multi classification
 - [ ] Simple Neural Network
 
 ### General Models
