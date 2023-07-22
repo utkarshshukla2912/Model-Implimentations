@@ -1,4 +1,4 @@
-# List of ML models and DL architectures implimented  
+## List of ML models and DL architectures implimented  
 
 ### Basic Models
 - [ ] Linear Regression - Single Variable
